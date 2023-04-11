@@ -3,7 +3,6 @@
 ## I'm a Gamer and Developer 😁
 
 - 👨‍ I´m 17 years old.
-- 🌱 I’m looking to collaborate with other creators
 - 👀 I’m currently coding in js, html and css
 
 ### 🔨 Tools: 
